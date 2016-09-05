@@ -1,0 +1,20 @@
+{
+  "name": "get_started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Dearaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
